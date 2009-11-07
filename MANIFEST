@@ -1,0 +1,12 @@
+Build.PL
+Changes
+lib/DBI/Custom/Result.pm
+MANIFEST
+README
+t/00-load.t
+t/01-sqlite.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
+Makefile.PL
+META.yml
